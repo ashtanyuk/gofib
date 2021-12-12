@@ -1,4 +1,4 @@
-package fib
+package main
 
 func FibRec(n int) int {
    if n <=1 {

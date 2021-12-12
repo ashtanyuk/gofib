@@ -1,4 +1,4 @@
-package Fibonacci
+package fib
 
 func FibRec(n int) int {
    if n <=1  {
